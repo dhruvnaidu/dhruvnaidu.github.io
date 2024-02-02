@@ -8,3 +8,7 @@
 
 ## Work Experience
 **Intern @ HCL (_January 2022 - May 2022_)**
+-Created a Machine Learning application, collaborated with data scientists to enable
+accurate predictions, and implemented machine learning algorithms such as regression,
+ensemble methods, or even advanced techniques like neural networks. UI was designed to
+allow users to input relevant details
